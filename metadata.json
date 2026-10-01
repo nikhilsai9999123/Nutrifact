@@ -1,0 +1,6 @@
+{
+  "name": "NutriScan - Smart Health & FSSAI Nutrition Scanner",
+  "description": "Mobile nutrition scanning app with QR/barcode scanner, image recognition fallback, FSSAI HFSS safety assessment, and personalized health recommendations.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
